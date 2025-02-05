@@ -1,0 +1,35 @@
+- Basic industrial control systems
+	- SCADA - supervisory control and data acquisition 
+	- DCS - distributed control systems
+	- PCS - process control systems
+	- EMS - energy management systems
+	- AS - automation system
+	- SIS - safety instrumented system
+- OT - operational technology.  Refers to the hardware and software of it
+- Embedded system: computer consisting of hardware and software that typically does dedicated task
+	- Typically part of another system
+	- 98% of all microprocessors are part of embedded system
+	- PLCs, networking, other random stuff that has a chip in it
+- Hardware (x86, PowerPC, ARM, MIPS)
+	- Memory: nonvolatile memory (flash and firmware)
+		- Volatile: RAM, stacks, buffer, variables
+	- Inputs and outputs, ports, user interface stuff
+- Programs
+	- real time operation systems, IEC 61131 program languages, etc
+	- CoDeSys - tool that allows you to write in any language
+	- Device drivers (ethernet, memory)
+	- Services (web, ftp)
+	- Debuggers
+- Ladder logic motor walkthrough
+	- ![[Ladder_logic.png]]
+	- A line of code is called a rung
+	- PLC executes from left to right and top to bottom
+	- Each completion of a program is called a scan
+	- PLC can do many scans in a second (50 to 60 ms)
+- Each rung executes on an IF -> THEN principle
+- Connected Components Workbench can be used to demo PLCs
+- https://www.plcfiddle.com/
+	- Can use this to test
+- https://www.plcfiddle.com/fiddles/38a3f32d-ebfd-47e1-8331-a65afc080b1a
+- https://www.plcfiddle.com/fiddles/e68cad0b-be8f-44e7-bd8a-fdf6766d44be
+- 

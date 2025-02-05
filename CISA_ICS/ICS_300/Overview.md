@@ -1,0 +1,12 @@
+- PDF also has all the info
+- Can submit for CEUs
+- Need to complete the virtual one before the hands on L one (301L)
+- NOT a deep dive into tools, ICS protocols, vulns or exploits
+	- Broad in scope and diverse
+- 5 sessions
+	- Overview and walkthrough
+	- Network discovery and mapping
+	- Defense, detect
+	- Exploitation process and metasploit
+	- Network attack and exploit
+- Must complete sessions in order
