@@ -1,0 +1,15 @@
+- Passive discovery
+	- Uncover info without disrupting any of the normal network operations
+	- Cautious and meticulous 
+	- DOES NOT SEND ANY NETWORK PACKETS
+- Passive discovery tools
+	- ipconfig, netstat/net, iptables, WIRESHARK, crontab, files on machine
+	- Check logs and cache
+	- On Linux: `arp -a -i eth0 -n` to show arp table (obviously replace interface as needed)
+	- https://macvendors.com/ to correlate MACs to manufacture
+	- `ipconfig /all` want to check if IP routing enabled bc then you can use as pivot to internal networks, especially if machine has multiple interfaces 
+	- `ifconfig -a` on Linux does the same as the windows one
+	- `cat /etc/resolv.conf` to check DNS info on Linux machines
+	- `netstat` is useful for finding connections to the host
+		- Add `-anob -p` to Windows commands to see more ports and other info
+		- On Linux, use `-pantu` 

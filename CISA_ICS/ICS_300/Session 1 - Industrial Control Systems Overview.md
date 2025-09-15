@@ -32,4 +32,13 @@
 	- Can use this to test
 - https://www.plcfiddle.com/fiddles/38a3f32d-ebfd-47e1-8331-a65afc080b1a
 - https://www.plcfiddle.com/fiddles/e68cad0b-be8f-44e7-bd8a-fdf6766d44be
-- 
+- Field Devices -> field controllers -> HMI (human machine interface)
+	- Hierarchy of control
+- Protocols:
+	- DNP3: electric use, port 20000, master to remote connection 
+	- ICCP: electrical use, port 102, has newer, secure version that uses certs
+	- Modbus: used by control systems, text readable, port 502
+- Fortifying cybersecurity posture
+	- Check vulnerable components, threat vectors and mitigations
+	- End goal is to minimize the gap between discovering vulnerabilities and implementing mitigation efforts
+		- Need to be quick to both discover and implement

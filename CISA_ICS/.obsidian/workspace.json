@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICS_300/Session 1 - Industrial Control Systems Overview.md",
+                "file": "ICS_300/Session 2 - Network Discovery and Mapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1 - Industrial Control Systems Overview"
+              "title": "Session 2 - Network Discovery and Mapping"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -154,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,12 +166,15 @@
   },
   "active": "06032ecc35c18b56",
   "lastOpenFiles": [
-    "I.md",
     "ICS_300/Session 1 - Industrial Control Systems Overview.md",
-    "ICS_300/IMG/Ladder_logic.png",
-    "ICS_300/IMG",
+    "ICS_300/Session 2 - Network Discovery and Mapping.md",
+    "ICS_300/FAQ_final_Session1.pdf",
+    "ICS_300/Unconfirmed 848119.crdownload",
     "ICS_300/Overview.md",
     "ICS_300/300_R00M00_Trainee Guide_Fillable.pdf",
+    "I.md",
+    "ICS_300/IMG/Ladder_logic.png",
+    "ICS_300/IMG",
     "ICS_300/300_R00M00_Trainee Guide_Fillable.pdf.crdownload",
     "Welcome.md",
     "ICS_300"
