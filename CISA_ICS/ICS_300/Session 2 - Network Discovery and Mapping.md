@@ -13,3 +13,25 @@
 	- `netstat` is useful for finding connections to the host
 		- Add `-anob -p` to Windows commands to see more ports and other info
 		- On Linux, use `-pantu` 
+	- Check browser history and recent tabs
+		- `.bash_history` 
+	- Check routing tables
+		- `route -n` or `netstat -rn` for Linux
+		- `route print` for Windows
+	- tcpdump/windump to capture packets across the wire
+- Active discovery
+	- Generates noise and packets
+		- These can break inflexible control systems
+	- arp scan: sneds out packets querying for MAC address
+	- nmap: DANGEROUS to run directly against IT, SCADA and PCS systems
+		- Works by sending out specific packets and analyzing the results
+		- SYN scan (-sS).  Need to be root
+		- TCP connect (-sT).  Can run as user
+		- ![](ICS_300/IMG/nmap.png)
+		- Slow down scans to avoid IDS
+			- T0 is slowest, T5 fastest
+		- `--reason` flag shows why NMAP is returning the results it is claiming
+		- 
+	- Common Control Systems Port Numbers
+		- ![](ICS_300/IMG/ports.png)
+	- 
