@@ -1,0 +1,19 @@
+
+- Most cyber attacks are against government 
+- Asset and information inventory is critical 
+	- Need to know what you have, why and where it is, plus what it does
+- Field devices
+	- On the network but outside the physical parameter
+	- Often do not have robust security built in
+- GRASSMARLIN 
+	- NSA tool that maps OT networks 
+	- Totally passive tool
+- Personnel devices and removable media are usually bad ideas 
+- ICS network should be separated from IT net and commercial internet 
+	- Should have logs and DMZ between them 
+- Data diodes allow one connection one way 
+- IDS: intrusion detection system 
+	- Multiple types: host, network, application, digital, paper, anomalies 
+- IPS: intrusion prevention system
+	- Actively blocks and/or mitigates threats instead of just detecting htem 
+- 
