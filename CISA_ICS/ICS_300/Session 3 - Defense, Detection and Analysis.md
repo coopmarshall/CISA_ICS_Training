@@ -15,5 +15,27 @@
 - IDS: intrusion detection system 
 	- Multiple types: host, network, application, digital, paper, anomalies 
 - IPS: intrusion prevention system
-	- Actively blocks and/or mitigates threats instead of just detecting htem 
+	- Actively blocks and/or mitigates threats instead of just detecting then 
+- Host IDS (HIDS)
+	- Deployed on a single host
+	- Centrally managed, sends logs to a server 
+- Network IDS (NIDS)
+	- Usually a network TAP, scans both sides of conversation 
+- Netflow logs are used to detect traffic
+	- Can then search on anomaly 
+	- Look for scans, weird traffic, increased traffic, host to host comms
+- Zeek
+	- Open source IDS
+	- Can query on specific traffic 
+- Snort rules
+	- Used in almost every IDS
+	- Triggers on certain traffic patterns
+	- Can use preprocessors to make the rules even easier to write
+		- Useful for weird protocols used in OT
+- IR phases
+	- Preparation
+	- Identification 
+	- Containment
+	- Clean up/recovery 
+	- Follow up
 - 
