@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICS_300/Session 3 - Defense, Detection and Analysis.md",
+                "file": "ICS_300/Session 4 - Exploitation and Metasploit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3 - Defense, Detection and Analysis"
+              "title": "Session 4 - Exploitation and Metasploit"
             }
           }
         ]
@@ -166,24 +166,28 @@
   },
   "active": "06032ecc35c18b56",
   "lastOpenFiles": [
+    "ICS_300/COOPER_MARSHALL_CDET 300.pdf",
+    "ICS_300/Unconfirmed 452315.crdownload",
+    "ICS_300/Session 3 - Defense, Detection and Analysis.md",
     "ICS_300/FAQ_final_Session3.pdf",
+    "ICS_300/Session 4 - Exploitation and Metasploit.md",
+    "ICS_300/Session 5 - Network Attacks and Exploits.md",
+    "ICS_300/Session 6 - Zero Trust in OT Environments.md",
+    "ICS_300/FAQ_final_Session5_General.pdf",
+    "ICS_300/Unconfirmed 182938.crdownload",
+    "ICS_300/FAQ_final_Session4.pdf",
+    "ICS_300/Unconfirmed 29177.crdownload",
     "ICS_300/Unconfirmed 421316.crdownload",
     "ICS_300/Session 2 - Network Discovery and Mapping.md",
-    "ICS_300/Session 3 - Defense, Detection and Analysis.md",
     "ICS_300/FAQ_final_Session2.pdf",
     "ICS_300/Unconfirmed 974971.crdownload",
     "ICS_300/IMG/nmap.png",
     "ICS_300/IMG/ports.png",
     "ICS_300/Session 1 - Industrial Control Systems Overview.md",
     "ICS_300/FAQ_final_Session1.pdf",
-    "ICS_300/Unconfirmed 848119.crdownload",
     "ICS_300/Overview.md",
-    "ICS_300/300_R00M00_Trainee Guide_Fillable.pdf",
     "I.md",
     "ICS_300/IMG/Ladder_logic.png",
-    "ICS_300/IMG",
-    "ICS_300/300_R00M00_Trainee Guide_Fillable.pdf.crdownload",
-    "Welcome.md",
-    "ICS_300"
+    "Welcome.md"
   ]
 }

@@ -1,0 +1,41 @@
+- What is zero trust
+	- Assumptions: 
+		- Attacker is always present
+		- No user or device is trusted
+		- Every connection needs to verify the user, device and resource 
+	- Principle of least privilege is essential to zero trust
+- Zero trust maturity model (ZTMM) 
+	- Five distinct pillars 
+		- Identity
+		- Devices
+		- Network
+		- Apps and workloads
+		- Data
+	- Each are built on three big pillars
+		- Visibility and analysis
+		- Automation and orchestration 
+		- Governance 
+	- Some pillars are easier to implement, some harder
+		- Don't have to do everything all at once
+	- Multiple stages of maturity
+		- Traditional
+		- Initial 
+		- Advanced 
+		- Optimal
+	- Costs go up at each phase
+- Important concepts
+	- Not east to install zero trust
+	- More of a journey and mindset
+	- Incremental roll out
+	- Can impact operations
+- Applying zero trust in OT/SCADA
+	- First: asset and device inventory
+		- Map all network connectivity between all devices, users and systems
+	- Micro segmentation: keep networks as small as possible
+		- Have policy enforcement points (PEPs) between each network
+		- Can be firewall or gateway device
+	- Use MFA for all access
+	- Data diodes (uni directional gateway) to transfer data from one net to another 
+	- Collect logs and pass all logs to aggregator (SIEM)
+		- Make sure defenders are trained to use SIEM
+	- 
