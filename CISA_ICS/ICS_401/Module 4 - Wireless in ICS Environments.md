@@ -1,0 +1,29 @@
+- Wireless will be in OT environments, especially remote/austere ones
+- Frequencies are all restricted by the US government 
+- Different antenna radiate energy in different directions 
+	- Important to keep in mind for secure operations
+	- Some you can aim, others are omni directional 
+- Wireless encryption is critical bc anyone can intercept traffic in the air
+	- Also required to limit access to access points and prevent MiTM
+	- Older equipment sometimes only supports old protocols that are no longer secure
+	- Newer equipment may support it for backwards compatibility 
+- What can't you encrypt?
+	- Beacons and probes
+		- How to start authentication (WiFi names, MAC address, protocols)
+- WEP attack
+	- Capture initialization vector (IV) packets
+	- Can crack and get keys from this
+- WPA attack
+	- 8 digit pin (easy to brute force with enough time)
+	- Some vendors use the same PIN
+- Deauth attack
+	- Keep booting people off the network by sending reset packets
+	- Annoying
+- Evil Twin (MiTM)
+	- Can manipulate or spoof traffic 
+- WPA2 KRACK
+	- Reinstall encryption keys
+- Wireless detection
+	- Lots of free software and cheap hardware
+	- Can build your own
+	- 

@@ -1,0 +1,22 @@
+- Cybersecurity performance goal (CPG)
+	- Things that you want to hit
+- Risk = threat * vulnerability * consequences
+	- Threats can come from anywhere (internal or external)
+- Assessments vs evaluation 
+	- Assessment: point in time, compliance based, annual/bin-annual/tri-annual
+	- Evaluation: long term continuous look
+- OT/SCADA lack standard security guidelines
+	- Need to create separate ICS practices 
+- Evaluation process
+	- Standardized
+	- Practical
+	- Reliable
+	- Valid
+- Criticality analysis
+	- How to prioritize
+	- Based on supply product and impact
+	- Prioritize each business function 
+		- Higher is more important 
+	- Use cybersecurity evaluation tool (CSET) to create critical analysis
+	- Lots of different ways to measure and evaluate critical process
+- 

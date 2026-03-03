@@ -1,0 +1,24 @@
+- Good network segmentation practices
+	- Network segmentation:
+		- Separating IT and OT networks
+		- 
+- Identify critical data paths
+	- Paths between IT and OT networks
+- Don't plug stuff into OT networks 
+	- Especially IT stuff
+- ![[segmentation.png]]
+- Good network segmentation practices
+	- Segmentation
+		- Architecture that divides IT and OT and the security between them
+	- Required to achieve critical data path
+- Segmenting network walkthrough 
+	- Start with major networks (IT/OT/DMZ)
+	- Move end devices into sub network
+	- Add firewalls between networks
+	- Continue to iterate through these steps until all devices are secure
+- Restricting critical data paths
+	- Limit to special machines and block all other access
+	- Monitor traffic between the networks
+		- Typically historian to historian monitor, HMI to backup, etc
+	- ![[net-diagram.png]]
+- 

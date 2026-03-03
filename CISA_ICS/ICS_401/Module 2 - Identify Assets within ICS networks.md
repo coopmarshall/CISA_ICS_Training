@@ -1,0 +1,21 @@
+- Create an asset inventory
+	- Absolutely critical to track asset locations, OS, software, etc
+	- Need to determine ownership of assets
+- What is asset inventory?
+	- Repository of all relevant information (hardware and software) being used
+	- Ongoing effort
+	- Needs to be repeatable 
+- Different levels
+	- High level: big end devices
+	- Lower level: accounts, warranty status, service levels, emails, recovery accounts
+	- Can pretty much be anything 
+- Once you identify assets, you need to prioritize assets
+	- Competing priorities across different business uses
+	- OT usually moves more slowly than IT
+	- Can label assets red, yellow or green
+- Approaches
+	- Spreadsheets (not great at scale, manually)
+		- Data is outdated quickly, more options for mistakes
+	- Software solutions
+		- Can be expensive, more complex, lots of options
+- All changes need planning and can result in major disruptions
