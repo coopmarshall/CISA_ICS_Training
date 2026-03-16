@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICS_401/Module 4 - Wireless in ICS Environments.md",
+                "file": "ICS_401/Module 10 - Risk Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 4 - Wireless in ICS Environments"
+              "title": "Module 10 - Risk Management"
             }
           }
         ]
@@ -166,23 +166,29 @@
   },
   "active": "06032ecc35c18b56",
   "lastOpenFiles": [
-    "ICS_401/Module 3 - ICS Connectivity.md",
+    "ICS_401/Module 9 - Supply Chain Risk.md",
+    "ICS_401/Module 10 - Risk Management.md",
+    "ICS_401/PDFs/401V_LO9_Supply Chain Exercise.pdf",
+    "ICS_401/PDFs/Unconfirmed 94283.crdownload",
+    "ICS_401/Module 8 - ICS Dependecies.md",
+    "ICS_401/PDFs/401V_LO8_Interdependencies Exercise (Pen and Paper).pdf",
+    "ICS_401/PDFs/Unconfirmed 677561.crdownload",
+    "ICS_401/Module 7 - Adversarial Risk.md",
+    "ICS_401/PDFs/401V_LO7_Phishing Exercise.pdf",
+    "ICS_401/PDFs/Unconfirmed 851734.crdownload",
+    "ICS_401/Module 6 - OSINT and OPSEC.md",
+    "ICS_401/PDFs/401V_LO6_OPSEC Walkthrough.pdf",
+    "ICS_401/PDFs/Unconfirmed 861869.crdownload",
+    "ICS_401/PDFs/401V_LO6_Hawaii OPSEC Photo.pdf",
+    "ICS_401/PDFs/Unconfirmed 786464.crdownload",
+    "ICS_401/Module 5 - Network Monitoring.md",
     "ICS_401/Module 4 - Wireless in ICS Environments.md",
-    "ICS_401/PDFs/401V_LO3_Network Segmentation Exercise (Pen and Paper).pdf",
-    "ICS_401/PDFs/Unconfirmed 162176.crdownload",
+    "ICS_401/Module 3 - ICS Connectivity.md",
     "ICS_401/IMG/net-diagram.png",
     "ICS_300/Session 1 - Industrial Control Systems Overview.md",
-    "ICS_300/300_R00M00_Trainee Guide_Fillable.pdf",
-    "ICS_300/COOPER_MARSHALL_CDET 300.pdf",
-    "ICS_300/FAQ_final_Session1.pdf",
     "ICS_401/IMG/segmentation.png",
-    "ICS_401/IMG",
     "ICS_401/Module 2 - Identify Assets within ICS networks.md",
-    "ICS_401/PDFs/401V_LO2_Asset Prioritization Instructions (Pen and Paper).pdf",
-    "ICS_401/PDFs/Unconfirmed 999804.crdownload",
     "ICS_401/Module 1 - ICS Evaluation Components.md",
-    "ICS_401/PDFs/401 Virtual Trainee Guide.pdf",
-    "ICS_401/PDFs",
     "ICS_300/Session 4 - Exploitation and Metasploit.md",
     "ICS_300/Session 3 - Defense, Detection and Analysis.md",
     "ICS_300/Session 5 - Network Attacks and Exploits.md",

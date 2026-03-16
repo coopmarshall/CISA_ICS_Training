@@ -1,0 +1,14 @@
+- Infrastructure 
+	- Inter and intra dependencies 
+- Lifeline sectors
+	- Water
+	- Energy 
+	- Transportation 
+	- Communications
+- Intradependencies
+	- ICS business functions
+	- List main and sub systems
+		- Auxiliary systems can have a major impact on core functions
+- Criticality and risk
+	- Critical systems are the most important 
+	- 

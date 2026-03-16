@@ -1,0 +1,52 @@
+- Passive monitoring
+	- NIDS/HIDS (network/host intrusion detection system)
+	- Packet capture (SPAN or TAP port)
+	- Centralized logging 
+- Active monitoring
+	- Scanning
+	- Pen testing
+	- Policy monitoring and reviews
+	- File integrity monitoring 
+- Hybrid
+	- SIEMs
+- All require people to monitor and react
+- Make sure to secure logging servers
+	- Need to have accurate timestamps on all devices on the network
+- Monitoring control systems
+	- What devices (protocols, comms, user accounts, products, firmware, etc)
+	- HIDS and NIDS
+	- Protection boundaries, firewalls, data diodes 
+	- Applications and media allow lists
+	- Compliance and audit change management
+- Compliance mechanisms
+	- Not the be all end all but can force change
+	- NIST 800-53 and AU-6
+- Need logging policy clearly defined 
+	- Make sure to assign people to actually review and act on the logs
+- Data and tools to monitor the data
+- Common log sources 
+	- Firewalls and networking devices
+	- IDS logs (zeek, SNORT)
+	- VPN connection logs
+- ICS log sources
+	- Enpoints and hosts
+	- proxy, web and DB
+	- HMI, IIoT, field devices
+- SNORT is usually the standard
+	- Can do DNP3 and Modbus, plus other plugin protocols
+- What to monitor
+	- Malware
+	- Ransomware
+	- Failed logins (especially admins)
+	- Event codes
+	- Unexpected IPs, protocols, function codes
+	- Continuous monitoring
+- Things to keep in mind
+	- False positive
+	- False negative 
+	- Unknowns
+- OT needs IR (incident response plan) built in
+	- Should mirror IT plan but account for differences in OT networks
+	- Good to have a playbook of options to execute
+	- Do tabletops, make contact lists and checklists
+- 

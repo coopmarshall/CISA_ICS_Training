@@ -1,0 +1,10 @@
+- Should implement change management process in the ICS environment
+- No two orgs are the same with regards to risk 
+- Threats can be:
+	- Internal or external
+	- Natural or man made
+	- Controllable or completely out of your hands
+- Risk options
+	- Accept, share, avoid, transfer, mitigate
+- Establish a change management process to ensure changes are documented and rolled out
+- 

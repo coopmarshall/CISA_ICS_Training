@@ -1,0 +1,10 @@
+- Goals
+	- Espionage
+	- Hacktivism
+	- Monetary game
+	- Terrorism
+- Develop the target first
+- ICS Matrix
+	- From MITRE
+	- Contains tactics and techniques
+	- 

@@ -1,0 +1,16 @@
+- OT stuff has been under the radar for a while
+	- Sophisticated adversaries know to target it
+- Can impact control systems without ever directly hitting them
+	- Break IT systems, can limit access to OT or cause other issues that impact production 
+- Pretty much anything can be considered OPSEC
+	- Orders, contracts, etc
+	- Anything that contains info on what systems you have or how you do things
+	- Can be exploited or targeted
+- OPSEC is essentially aggregating open source intel
+	- Most (~95%) intel is open source or out there
+- osintframework.com
+	- Can search emails, etc
+	- Other OSINT sites (shodan, Maltego, Censys) exist
+- Risk = likelihood x impact
+- Restrict access to company owned devices 
+- 

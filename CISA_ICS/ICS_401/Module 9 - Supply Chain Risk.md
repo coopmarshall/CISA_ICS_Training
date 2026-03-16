@@ -1,0 +1,9 @@
+- Huge risks in supply chains
+	- Can't really verify everything that you are running
+	- Traffic looks legitimate
+- Supply attacks are very difficult to identify locally
+- Make sure to properly dispose of old equipment
+	- Shred or destroy drives
+- Make sure to properly train new people
+- Validate all vendors that are coming in 
+- 
