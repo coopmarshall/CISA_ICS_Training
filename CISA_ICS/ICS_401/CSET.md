@@ -1,0 +1,6 @@
+- CISA tool.  Install from https://github.com/cisagov/cset/releases
+- CSET provides means of evaluating network
+	- Can generate reports and establish baselines with recommendations
+- IT CANNOT
+	- Validate accuracy of data, implement fixes, identify every vuln 
+- 

@@ -1,0 +1,13 @@
+- Take notes, only able to visit page one times
+- People
+	- Anthony
+		- ![[anthony.png]]
+	- Kevin
+		- ![[kevin.png]]
+	- Amy
+		- ![[smy.png]]
+	- Klein
+		- ![[klein.png]]
+	- Nicole
+		- ![[nicole.png]]
+- 
